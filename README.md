@@ -16,7 +16,9 @@
 
 ![Day 2](images/day002.png)
 
-# Day 3: Friday, December 5, 2020.
+# Day 3: Saturday, December 5, 2020.
 - I watched some video lectures. My current progress is "Lesson 1 - Introduction to Microsoft Azure Development" (38%)
 
 ![Day 3](images/day003.png)
+
+# Day 4: Sunday, December 6, 2020.
