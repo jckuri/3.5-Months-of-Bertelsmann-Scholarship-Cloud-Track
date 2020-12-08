@@ -28,3 +28,8 @@
 ![Day 4](images/day004.png)
 
 # Day 5: Monday, December 7, 2020.
+- I tried to enter the Phase 1 Orientation but I couldn't: "This meeting has reached a maximum of 1000 participants. Please try again later."
+- I watched the recording of the Phase 1 Orientation.
+
+![Day 5](images/day005.jpeg)
+![Day 5](images/day005-1.png)
