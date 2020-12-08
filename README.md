@@ -33,3 +33,5 @@
 
 ![Day 5](images/day005.jpeg)
 ![Day 5](images/day005-2.png)
+
+# Day 6: Tuesday, December 8, 2020.
