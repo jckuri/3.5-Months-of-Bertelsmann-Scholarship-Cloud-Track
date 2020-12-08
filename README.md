@@ -32,4 +32,4 @@
 - I watched the recording of the Phase 1 Orientation.
 
 ![Day 5](images/day005.jpeg)
-![Day 5](images/day005-1.png)
+![Day 5](images/day005-2.png)
