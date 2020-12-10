@@ -42,7 +42,7 @@
 
 # Day 7: Wednesday, December 9, 2020.
 - I watched some video lectures. 
-- My current progress is "Lesson 1 - Introduction to Microsoft Azure Development" (%) - "12. Tools & Environment".
+- My current progress is "Lesson 1 - Introduction to Microsoft Azure Development" (75%) - "12. Tools & Environment".
 
 ![Day 7](images/day007.png)
 
