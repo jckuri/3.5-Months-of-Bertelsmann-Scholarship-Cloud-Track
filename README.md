@@ -35,3 +35,15 @@
 ![Day 5](images/day005-2.png)
 
 # Day 6: Tuesday, December 8, 2020.
+- I watched some video lectures. 
+- My current progress is "Lesson 1 - Introduction to Microsoft Azure Development" (69%) - "11. IaaS, PaaS, and SaaS".
+
+![Day 6](images/day006.png)
+
+# Day 7: Wednesday, December 9, 2020.
+- I watched some video lectures. 
+- My current progress is "Lesson 1 - Introduction to Microsoft Azure Development" (%) - "12. Tools & Environment".
+
+![Day 7](images/day007.png)
+
+# Day 8: Thursday, December 10, 2020.
