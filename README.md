@@ -47,3 +47,12 @@
 ![Day 7](images/day007.png)
 
 # Day 8: Thursday, December 10, 2020.
+- I submitted the "Cloud Track #60DaysofUdacity Challenge - Pledge Form".
+- I watched some video lectures.
+- My current progress is "Lesson 2 - Azure Compute Services" (6%) - "1. Introduction".
+- I encouraged 
+
+![Day 8](images/day008.png)
+![Day 8](images/day008-2.png)
+
+# Day 9: Friday, December 11, 2020.
