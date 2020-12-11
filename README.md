@@ -50,7 +50,7 @@
 - I submitted the "Cloud Track #60DaysofUdacity Challenge - Pledge Form".
 - I watched some video lectures.
 - My current progress is "Lesson 2 - Azure Compute Services" (6%) - "1. Introduction".
-- I encourage
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce to continue in the #60DaysofUdacity challenge.
 
 ![Day 8](images/day008.png)
 ![Day 8](images/day008-2.png)
