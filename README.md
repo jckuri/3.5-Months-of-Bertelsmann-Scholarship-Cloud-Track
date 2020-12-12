@@ -61,3 +61,5 @@
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V to continue in the #60DaysofUdacity challenge.
 
 ![Day 9](images/day009.png)
+
+# D10: Saturday, December 12, 2020.
