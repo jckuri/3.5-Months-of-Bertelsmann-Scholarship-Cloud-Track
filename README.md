@@ -56,3 +56,8 @@
 ![Day 8](images/day008-2.png)
 
 # D9: Friday, December 11, 2020.
+- I watched some video lectures.
+- My current progress is "Lesson 2 - Azure Compute Services" (25%) - "4. Exercise: Create A Resource Group".
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V to continue in the #60DaysofUdacity challenge.
+
+![Day 9](images/day009.png)
