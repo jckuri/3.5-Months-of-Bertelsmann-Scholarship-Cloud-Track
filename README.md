@@ -78,3 +78,11 @@
 ![Day 11](images/day011.png)
 
 # D12: Monday, December 14, 2020.
+- I watched some video lectures.
+- My current progress is "Lesson 2 - Azure Compute Services" (63%) - "10. Exercise: Creating a Virtual Machine".
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter to continue in the #60DaysofUdacity challenge.
+
+![Day 12](images/day012.png)
+![Day 12](images/day012-2.png)
+
+# D13: Tuesday, December 15, 2020.
