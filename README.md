@@ -97,4 +97,6 @@
 - My current progress is "Lesson 2 - Azure Compute Services" (75%) - "13. Exercise: Creating an App Service".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter to continue in the #60DaysofUdacity challenge.
 
+![Day 14](images/day014.png)
+
 # D15: Thursday, December 17, 2020.
