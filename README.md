@@ -181,3 +181,10 @@
 ![Day 24](images/day024.png)
 
 # D26: Monday, December 28, 2020.
+- I watched some video lectures.
+- My current progress is "Lesson 4 - Security and Monitoring Basics" (29%) - "5. Azure Active Directory".
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter to continue in the #60DaysofUdacity challenge.
+
+![Day 25](images/day025.png)
+
+# D27: Tuesday, December 29, 2020.
