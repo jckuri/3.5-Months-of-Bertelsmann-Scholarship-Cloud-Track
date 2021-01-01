@@ -212,3 +212,10 @@
 ![Day 29](images/day029.png)
 
 # D30: Friday, January 1, 2020.
+- I'm still trying to understand the Exercise: OAuth2 with MSAL.
+- My current progress is "Lesson 4 - Security and Monitoring Basics" (65%) - 11. Solution: OAuth2 with MSAL"
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, to continue in the #60DaysofUdacity challenge.
+
+![Day 30](images/day030.png)
+
+# D31: Saturday, January 2, 2020.
