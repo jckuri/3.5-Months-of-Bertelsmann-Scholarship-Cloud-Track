@@ -265,5 +265,11 @@
 ![Day 36](images/day036.png)
 ![Day 36](images/day036-2.png)
 
-
 # D37: Friday, January 8, 2020.
+- I checked that everything is working fine with my app service "LogApp2" (the Exercise: Monitoring and Logging in Azure).
+- I'm reading everything about "Lesson 5 - Project: Deploy an Article CMS to Azure".
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
+
+![Day 37](images/day037.png)
+
+# D38: Saturday, January 9, 2020.
