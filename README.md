@@ -297,3 +297,10 @@
 ![Day 41](images/day041.png)
 
 # D42: Wednesday, January 13, 2020.
+- I completed the "Midpoint Survey - Bertelsmann Technology Scholarship Program - Cloud Track".
+- I've been brainstorming about what to write for the "Student Stories Challenge".
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
+
+![Day 42](images/day042.png)
+
+# D44: Thursday, January 14, 2020.
