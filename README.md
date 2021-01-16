@@ -310,3 +310,8 @@
 ![Day 43](images/day043.png)
 
 # D44: Friday, January 15, 2020.
+- I'm reading the source code of "Lesson 5 - Project: Deploy an Article CMS to Azure".
+- I talked to a friend giving her tips about how to pass to Phase 2.
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
+
+# D45: Saturday, January 16, 2020.
