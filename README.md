@@ -211,14 +211,14 @@
 
 ![Day 29](images/day029.png)
 
-# D30: Friday, January 1, 2020.
+# D30: Friday, January 1, 2021.
 - I'm still trying to understand the Exercise: OAuth2 with MSAL.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (65%) - 11. Solution: OAuth2 with MSAL"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, to continue in the #60DaysofUdacity challenge.
 
 ![Day 30](images/day030.png)
 
-# D31: Saturday, January 2, 2020.
+# D31: Saturday, January 2, 2021.
 - I finally finished programming the Exercise: OAuth2 with MSAL.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (71%) - 12. Monitoring and Logging in Azure"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, to continue in the #60DaysofUdacity challenge.
@@ -228,35 +228,35 @@
 ![Day 31](images/day031-3.png)
 ![Day 31](images/day031-4.png)
 
-# D32: Sunday, January 3, 2020.
+# D32: Sunday, January 3, 2021.
 - I'm trying to understand the Exercise: Monitoring and Logging in Azure.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (76%) - 13. Exercise: Monitoring and Logging in Azure"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 32](images/day032.png)
 
-# D33: Monday, January 4, 2020.
+# D33: Monday, January 4, 2021.
 - I'm still trying to understand the Exercise: Monitoring and Logging in Azure.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (76%) - 13. Exercise: Monitoring and Logging in Azure"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 33](images/day033.png)
 
-# D34: Tuesday, January 5, 2020.
+# D34: Tuesday, January 5, 2021.
 - I'm still trying to understand the Exercise: Monitoring and Logging in Azure. I've been busy.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (82%) - 14. Solution: Monitoring and Logging in Azure"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 34](images/day034.png)
 
-# D35: Wednesday, January 6, 2020.
+# D35: Wednesday, January 6, 2021.
 - I'm analyzing the source code of the Exercise: Monitoring and Logging in Azure.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (82%) - 14. Solution: Monitoring and Logging in Azure"
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 35](images/day035.png)
 
-# D36: Thursday, January 7, 2020.
+# D36: Thursday, January 7, 2021.
 - I managed to finish programming the Exercise: Monitoring and Logging in Azure.
 - My current progress is "Lesson 4 - Security and Monitoring Basics" (100%) - 17. Course Recap"
 - I've completed all of the Course Outline!
@@ -265,71 +265,71 @@
 ![Day 36](images/day036.png)
 ![Day 36](images/day036-2.png)
 
-# D37: Friday, January 8, 2020.
+# D37: Friday, January 8, 2021.
 - I checked that everything is working fine with my app service "LogApp2" (the Exercise: Monitoring and Logging in Azure).
 - I'm reading everything about "Lesson 5 - Project: Deploy an Article CMS to Azure".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 37](images/day037.png)
 
-# D38: Saturday, January 9, 2020.
+# D38: Saturday, January 9, 2021.
 - I'm reading everything about "Lesson 5 - Project: Deploy an Article CMS to Azure".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 38](images/day038.png)
 
-# D39: Sunday, January 10, 2020.
+# D39: Sunday, January 10, 2021.
 - I'm still trying to understand everything about "Lesson 5 - Project: Deploy an Article CMS to Azure".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 39](images/day039.png)
 
-# D40: Monday, January 11, 2020.
+# D40: Monday, January 11, 2021.
 - I'm programming "Lesson 5 - Project: Deploy an Article CMS to Azure".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 40](images/day040.png)
 
-# D41: Tuesday, January 12, 2020.
+# D41: Tuesday, January 12, 2021.
 - I've been thinking about what to write for the "Student Stories Challenge".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 41](images/day041.png)
 
-# D42: Wednesday, January 13, 2020.
+# D42: Wednesday, January 13, 2021.
 - I completed the "Midpoint Survey - Bertelsmann Technology Scholarship Program - Cloud Track".
 - I've been brainstorming about what to write for the "Student Stories Challenge".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, to continue in the #60DaysofUdacity challenge.
 
 ![Day 42](images/day042.png)
 
-# D43: Thursday, January 14, 2020.
+# D43: Thursday, January 14, 2021.
 - I've started to write my essay for the "Student Stories Challenge".
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 43](images/day043.png)
 
-# D44: Friday, January 15, 2020.
+# D44: Friday, January 15, 2021.
 - I'm reading the source code of "Lesson 5 - Project: Deploy an Article CMS to Azure".
 - I talked to a friend giving her tips about how to pass to Phase 2.
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 44](images/day044.png)
 
-# D45: Saturday, January 16, 2020.
+# D45: Saturday, January 16, 2021.
 - I joined the study group #sg_python_for_everyone and we are planning a meeting called "Introduction to Python."
 - I read the wikipedia article on Cloud Computing: https://en.wikipedia.org/wiki/Cloud_computing
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 45](images/day045.png)
 
-# D46: Sunday, January 17, 2020.
+# D46: Sunday, January 17, 2021.
 - I'm a Python demigod. But I still don't know Flask. So, I started to study this Flask tutorial: https://www.freecodecamp.org/news/learn-flask-for-python-full-tutorial/ 
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 46](images/day046.png)
 
-# D47: Monday, January 18, 2020.
+# D47: Monday, January 18, 2021.
 - I submitted my entry to the Student Stories Challenge: https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community/student-stories-challenge
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
@@ -337,22 +337,22 @@
 ![Day 47](images/day047-2.jpg)
 ![Day 47](images/day047-3.jpg)
 
-# D48: Tuesday, January 19, 2020.
+# D48: Tuesday, January 19, 2021.
 - I continue to study this Flask tutorial: https://www.freecodecamp.org/news/learn-flask-for-python-full-tutorial/ 
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 48](images/day048.png)
 
-# D49: Wednesday, January 20, 2020.
+# D49: Wednesday, January 20, 2021.
 - I was talking with Ekaterina about the webinar "Intro to Python" we will give for the Studay Jam 1.0. We were preparing the exercises.
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 49](images/day049.png)
 
-# D50: Thursday, January 21, 2020.
+# D50: Thursday, January 21, 2021.
 - I had a Zoom meeting with Ekaterina about the webinar "Intro to Python" we will give for the Studay Jam 1.0. We were discussing about the technical aspects of the meeting, i.e. the platform, the link, Jupyter notebooks.
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 50](images/day050.png)
 
-# D51: Friday, January 22, 2020.
+# D51: Friday, January 22, 2021.
