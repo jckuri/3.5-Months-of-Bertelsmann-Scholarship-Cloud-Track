@@ -406,3 +406,10 @@
 ![Day 58](images/day058.png)
 
 # D59: Saturday, January 30, 2021.
+- I continue documenting and improving the programming exercises of our webinar "Fun Facts and Intro to Python" by using Google Colab:  http://bit.do/PythonForCloud
+- We will give our webinar this Sunday, January 31, 2021 at 7:00-8:30 PST. (15:00 GMT)
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 59](images/day059.png)
+
+# D60: Sunday, January 31, 2021.
