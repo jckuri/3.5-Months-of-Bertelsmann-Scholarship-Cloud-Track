@@ -413,7 +413,7 @@
 ![Day 59](images/day059.png)
 
 # D60: Sunday, January 31, 2021.
-- Today, @Katherine and I gave our webinar "Fun Facts and Intro to Python". Here is the video recording of the webinar: https://youtu.be/2AUVHMWSnlo
+- Today, @Katherine and I gave our webinar "Fun Facts and Intro to Python" in the Study Jam 1.0. Here is the video recording of the webinar: https://youtu.be/2AUVHMWSnlo
 - I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
 ![Day 60](images/day060.png)
