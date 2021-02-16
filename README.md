@@ -514,3 +514,18 @@
 ![Day 75](images/day075.png)
 
 # D76: Tuesday, February 16, 2021.
+- I asked this question in the channel #l3_azure_storage:
+Hello. I have a big problem with "Lesson 3: Azure Storage - 10. Connecting Your App to Storage - Question 1 of 2".
+I deeply thought about the answer to this question. 
+But I cannot find the right answer after trying all the possible combinations that make sense.
+I think there are 120 valid answers.
+Variations without repetition: V k (n) = n! / (n - k)!
+V 3 (6) = 6! / 3! = 6 * 5 * 4 = 120 variations without repetition.
+https://www.hackmath.net/en/calculator/combinations-and-permutations?n=6&k=3&order=1&repeat=0
+Can you help me find the right answer to Question 1?
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 76](images/day076.png)
+![Day 76](images/day076-2.png)
+
+# D77: Wednesday, February 17, 2021.
