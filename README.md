@@ -518,7 +518,7 @@
 Hello. I have a big problem with "Lesson 3: Azure Storage - 10. Connecting Your App to Storage - Question 1 of 2".
 I deeply thought about the answer to this question. 
 But I cannot find the right answer after trying all the possible combinations that make sense.
-I think there are 120 valid answers.
+I think there are 120 possible answers.
 Variations without repetition: V k (n) = n! / (n - k)!
 V 3 (6) = 6! / 3! = 6 * 5 * 4 = 120 variations without repetition.
 https://www.hackmath.net/en/calculator/combinations-and-permutations?n=6&k=3&order=1&repeat=0
