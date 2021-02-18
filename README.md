@@ -529,3 +529,10 @@ Can you help me find the right answer to Question 1?
 ![Day 76](images/day076-2.png)
 
 # D77: Wednesday, February 17, 2021.
+- I read the contents of this website: "Bertelsmann Technology Scholarship - ⏰ Community Initiative Timeline" <https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/community?authuser=0>
+- I talked to Katherine about the possibility of giving another webinar on Python and Flask, perhaps with a small web app.
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 77](images/day077.png)
+
+# D78: Thursday, February 18, 2021.
