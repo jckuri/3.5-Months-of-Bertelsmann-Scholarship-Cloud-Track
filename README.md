@@ -536,3 +536,10 @@ Can you help me find the right answer to Question 1?
 ![Day 77](images/day077.png)
 
 # D78: Thursday, February 18, 2021.
+- I double-checked that I indeed completed all the video lectures, exercises, questions, activities, and Jupyter notebooks in this nanodegree.
+- I kept studying Kubernetes.
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 78](images/day078.png)
+
+# D79: Friday, February 19, 2021.
