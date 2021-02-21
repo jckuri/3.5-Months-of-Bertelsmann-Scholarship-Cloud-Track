@@ -549,3 +549,9 @@ Can you help me find the right answer to Question 1?
 ![Day 79](images/day079.png)
 
 # D80: Saturday, February 20, 2021.
+- I watched this video: "How to run containers with Kubernetes on Azure Government" <https://youtu.be/YA7hwf0FWn0?list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 80](images/day080.png)
+
+# D81: Sunday, February 21, 2021.
