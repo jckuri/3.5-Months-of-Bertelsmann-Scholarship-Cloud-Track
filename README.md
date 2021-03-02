@@ -604,3 +604,10 @@ Can you help me find the right answer to Question 1?
 ![Day 88](images/day088.png)
 
 # D89: Monday, March 1, 2021.
+- I watched this video: "Virtual Kubelet Introduction | Azure Friday
+" <https://www.youtube.com/watch?v=lrb9XL6Pcas&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=10>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 89](images/day089.png)
+
+# D90: Tuesday, March 2, 2021.
