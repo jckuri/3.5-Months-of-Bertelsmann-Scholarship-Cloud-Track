@@ -617,3 +617,9 @@ Can you help me find the right answer to Question 1?
 ![Day 90](images/day090.png)
 
 # D91: Wednesday, March 3, 2021.
+- I watched this video: "Tools for developing and deploying applications on Kubernetes" <https://www.youtube.com/watch?v=QNx9-UjTVXA&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=12>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 91](images/day091.png)
+
+# D92: Thursday, March 4, 2021.
