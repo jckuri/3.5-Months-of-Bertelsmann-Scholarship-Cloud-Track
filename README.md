@@ -623,3 +623,10 @@ Can you help me find the right answer to Question 1?
 ![Day 91](images/day091.png)
 
 # D92: Thursday, March 4, 2021.
+- I watched this video: "Large-scale container orchestration with Kubernetes on Azure" <https://www.youtube.com/watch?v=gNG1WGFCsZ0&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=14>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 92](images/day092.png)
+
+# D93: Friday, March 5, 2021.
+
