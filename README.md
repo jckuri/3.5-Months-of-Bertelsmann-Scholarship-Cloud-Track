@@ -659,4 +659,9 @@ Can you help me find the right answer to Question 1?
 ![Day 97](images/day097.png)
 
 # D98: Wednesday, March 10, 2021.
+- I watched this video: "Azure Friday | Container-native developer experiences, Part 3 - Brigade" <https://www.youtube.com/watch?v=aZMna3VuoAg&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=18>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
 
+![Day 98](images/day098.png)
+
+# D99: Thursday, March 11, 2021.
