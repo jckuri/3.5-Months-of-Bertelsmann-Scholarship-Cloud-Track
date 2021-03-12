@@ -665,3 +665,11 @@ Can you help me find the right answer to Question 1?
 ![Day 98](images/day098.png)
 
 # D99: Thursday, March 11, 2021.
+- I read all the stories in the "Student Stories 
+Challenge - Finalists" <https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/cloud-track/cloud-student-story-finalists>. And I voted for @Katherine.
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 99](images/day099.png)
+![Day 99](images/day099-2.png)
+
+# D100: Friday, March 12, 2021.
