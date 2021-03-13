@@ -673,3 +673,11 @@ Challenge - Finalists" <https://sites.google.com/udacity.com/bertelsmann-tech-sc
 ![Day 99](images/day099-2.png)
 
 # D100: Friday, March 12, 2021.
+- I watched this video: "Get started with .NET Core on Kubernetes with Azure Dev Spaces: Part 1 | Azure Tips and Tricks
+" <https://www.youtube.com/watch?v=KmxcQQxhW6o&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=19>
+- [Off-topic] I uploaded a video of me practicing calisthenics: "Combo for Gymnastics Forza Calisthenics System" <https://www.youtube.com/watch?v=LmYM8HggTrU>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 100](images/day100.png)
+
+# D101: Saturday, March 13, 2021.
