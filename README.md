@@ -693,3 +693,8 @@ Challenge - Finalists" <https://sites.google.com/udacity.com/bertelsmann-tech-sc
 ![Day 102](images/day102.png)
 
 # D103: Monday, March 15, 2021.
+- I watched this video: "Build multi-service applications on Kubernetes with Azure Dev Spaces: Part 2 | Azure Tips and Tricks
+" <https://www.youtube.com/watch?v=ICkEwIW35RM&list=PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO&index=20>
+- I encourage @Mateusz Zatylny, @Ana Peçini, @rachael bryce, @Laura_in_VA, @Ankit Biswas, @Kaustubha Shravan, @PK, @tapti sippy, @Alberto Pardo, @Anurag Shukla, @Carlota Pearl, @John V, @priyanka hiranandani, @sreenidhi iyengar, @Skovski, @Peter Ojo, @Camila Andrea González Williamson, @Sai Ganesh, @Sohit, @Rushikesh Thombre, @Danur Wijayanto, @Omar, @Martin Kramer, @Prnika Bakshi, @Manasvi Trivedi, @fame chailert, @Livinus Igbaji, @Maria Jose Davila B, @G, @Maaz Ali, @Katherine to continue in the #60DaysofUdacity challenge.
+
+![Day 103](images/day103.png)
